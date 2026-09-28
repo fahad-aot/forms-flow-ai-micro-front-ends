@@ -1,6 +1,6 @@
 {
   "name": "@formsflow/admin",
-  "version": "8.2.6-rc",
+  "version": "8.3.0",
   "scripts": {
     "start": "webpack serve",
     "start:standalone": "webpack serve --env standalone",
@@ -68,6 +68,7 @@
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.6",
     "react-dom": "^18.3.1",
+    "react-query": "^3.39.3",
     "react-i18next": "^12.1.4",
     "react-router-dom": "^7.18.3",
     "react-select": "^5.8.0",
